@@ -1,0 +1,82 @@
+[
+ {
+  "role": "outline",
+  "file": "India_AC.shp",
+  "sha256": "0e89b00a228b5500d0f7802492c615c34dcb67f72acaf6ec4a66575df0e31e70"
+ },
+ {
+  "role": "1976 AC shapes",
+  "file": "MH_ac_1976_georef_poly2.parquet",
+  "sha256": "2f361c56648833a7216132f8e7fa85f4af32655068c255bef724a8e0bf9992ba"
+ },
+ {
+  "role": "1976 AC table",
+  "file": "1976_ac.csv",
+  "sha256": "b85c8e7491872119e44687d91e069067445a6e00fcb2ccb5374555fb5abb1c00"
+ },
+ {
+  "role": "1976 PC table",
+  "file": "1976_pc.csv",
+  "sha256": "ffbf974a151a2f27496e9015c60409f767a086782afffe2adb35b504bf794772"
+ },
+ {
+  "role": "1976 PC shapes",
+  "file": "S13_PC.shp",
+  "sha256": "26863504735de41698d0597fadd769ccd620079df4918ef51808eabd65ba379c"
+ },
+ {
+  "role": "2008 AC shapes",
+  "file": "India_AC.shp",
+  "sha256": "0e89b00a228b5500d0f7802492c615c34dcb67f72acaf6ec4a66575df0e31e70"
+ },
+ {
+  "role": "2008 AC table",
+  "file": "2008_ac.csv",
+  "sha256": "b620c1c85b3ac3fb1645aef27feda155694a3dde62441ee192744a33ed18b29c"
+ },
+ {
+  "role": "2008 PC table",
+  "file": "2008_pc.csv",
+  "sha256": "a20a1b634031a91ee7a7b736c252b671b540733c475e9b244665f685b5668131"
+ },
+ {
+  "role": "population h6",
+  "file": "h6_population_2010_2030_wide.parquet",
+  "sha256": "5e67e328278a869349078448dd3442db15f5ed8756707fa2ddb353ffbc36adec"
+ },
+ {
+  "role": "population h7",
+  "file": "h7_population_2010_2030_wide.parquet",
+  "sha256": "e61bcfb487663ec13a89cbd39eab922f9326c76e3bd55f13dc8516ccab944129"
+ },
+ {
+  "role": "population h8",
+  "file": "h8_population_2010_2030_wide.parquet",
+  "sha256": "5ec20a97d64220459e41f6cf8220f2e27d22a0c2d50b6c556b9fb6850c7491e9"
+ },
+ {
+  "role": "ntl_mean h6",
+  "file": "h6_ntl_2012_2025_wide_with_geography.parquet",
+  "sha256": "2498299aded9c89604219f4ba4d12d7840cdd54a0d8caa3afb93d421a82219c6"
+ },
+ {
+  "role": "ntl_mean h7",
+  "file": "h7_ntl_2012_2025_wide_with_geography.parquet",
+  "sha256": "9882a755d5b2216554adfac0853b84e160aa072db213eb6b9b9b4b5a42d31591"
+ },
+ {
+  "role": "ntl_mean h8",
+  "file": "h8_ntl_2012_2025_wide_with_geography.parquet",
+  "sha256": "3b9f3f876a84b3e7a30944d0c438f4241b927cafb85b7aebbd89453f343b216f"
+ },
+ {
+  "role": "1976 ward points",
+  "file": "wards1976_points.csv",
+  "sha256": "6251ba5a27349670aff26988583364d1f5df3c9e6caa3b43b8f4d9b0a502bf01"
+ },
+ {
+  "role": "1976 referee",
+  "file": "MH_VS2004_summary.parquet",
+  "sha256": "ab8388b693fd26e62d9a5688539b002dabcb28c8d757bd73056148bd0f71f597"
+ }
+]
