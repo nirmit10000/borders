@@ -1,0 +1,67 @@
+[
+ {
+  "role": "outline",
+  "file": "India_AC.shp",
+  "sha256": "0e89b00a228b5500d0f7802492c615c34dcb67f72acaf6ec4a66575df0e31e70"
+ },
+ {
+  "role": "1976 AC shapes",
+  "file": "U07_ac.parquet",
+  "sha256": "78c157e62ae80122b9083ef1a023c720a6a3a37ff6094425c9bc34baa3907002"
+ },
+ {
+  "role": "1976 AC table",
+  "file": "1976_ac.csv",
+  "sha256": "2327bc157f7566794d11c161a960901b8d868541b1208172ba0919c696b98d41"
+ },
+ {
+  "role": "1976 PC table",
+  "file": "1976_pc.csv",
+  "sha256": "7a0a4bb19ae7c4164f9132a7f71eaca0bc2784243fcaad9b2a0ffbc0a2f8d1d1"
+ },
+ {
+  "role": "2008 AC shapes",
+  "file": "India_AC.shp",
+  "sha256": "0e89b00a228b5500d0f7802492c615c34dcb67f72acaf6ec4a66575df0e31e70"
+ },
+ {
+  "role": "2008 AC table",
+  "file": "2008_ac.csv",
+  "sha256": "f882e80e94f761e6902e91db8943e2e69664d480e16247e644eeeb473dc6a918"
+ },
+ {
+  "role": "2008 PC table",
+  "file": "2008_pc.csv",
+  "sha256": "0f78d2224223a19f7189a39a539f492d9cd8343fcad21d2a057f35127645d33f"
+ },
+ {
+  "role": "population h6",
+  "file": "h6_population_2010_2030_wide.parquet",
+  "sha256": "5e67e328278a869349078448dd3442db15f5ed8756707fa2ddb353ffbc36adec"
+ },
+ {
+  "role": "population h7",
+  "file": "h7_population_2010_2030_wide.parquet",
+  "sha256": "e61bcfb487663ec13a89cbd39eab922f9326c76e3bd55f13dc8516ccab944129"
+ },
+ {
+  "role": "population h8",
+  "file": "h8_population_2010_2030_wide.parquet",
+  "sha256": "5ec20a97d64220459e41f6cf8220f2e27d22a0c2d50b6c556b9fb6850c7491e9"
+ },
+ {
+  "role": "ntl_mean h6",
+  "file": "h6_ntl_2012_2025_wide_with_geography.parquet",
+  "sha256": "2498299aded9c89604219f4ba4d12d7840cdd54a0d8caa3afb93d421a82219c6"
+ },
+ {
+  "role": "ntl_mean h7",
+  "file": "h7_ntl_2012_2025_wide_with_geography.parquet",
+  "sha256": "9882a755d5b2216554adfac0853b84e160aa072db213eb6b9b9b4b5a42d31591"
+ },
+ {
+  "role": "ntl_mean h8",
+  "file": "h8_ntl_2012_2025_wide_with_geography.parquet",
+  "sha256": "3b9f3f876a84b3e7a30944d0c438f4241b927cafb85b7aebbd89453f343b216f"
+ }
+]
