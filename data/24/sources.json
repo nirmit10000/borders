@@ -1,0 +1,67 @@
+[
+ {
+  "role": "outline",
+  "file": "gujarat_AC.json",
+  "sha256": "5f6eb42c5e61d6ac1663ee5d7be01dc0f16189e13bd5a69501a87b996bc73ad4"
+ },
+ {
+  "role": "1976 AC shapes",
+  "file": "S06_ac.parquet",
+  "sha256": "0c2ebdd59c0e23861d46079a9b3a75346b7b46412228d30ab16426465ce95c62"
+ },
+ {
+  "role": "1976 AC table",
+  "file": "1976_ac.csv",
+  "sha256": "3fa3bc59723ba9c8100f3147c195350bb758e9433eaa4a5e6a41c13d024e85ee"
+ },
+ {
+  "role": "1976 PC table",
+  "file": "1976_pc.csv",
+  "sha256": "60885be005b142a2f7f4f4436322e627c91077815b0463dd4164a73fc4841758"
+ },
+ {
+  "role": "2008 AC shapes",
+  "file": "gujarat_AC.json",
+  "sha256": "5f6eb42c5e61d6ac1663ee5d7be01dc0f16189e13bd5a69501a87b996bc73ad4"
+ },
+ {
+  "role": "2008 AC table",
+  "file": "2008_ac.csv",
+  "sha256": "9457ccef5d5daafa436a1153295bdd8ec51c879b11fa71ff496e6b996967d2ec"
+ },
+ {
+  "role": "2008 PC table",
+  "file": "2008_pc.csv",
+  "sha256": "aa2ab8972580877976b4b61a214aaf3f1713bef8e61ca107a2c90a193fa509ce"
+ },
+ {
+  "role": "population h6",
+  "file": "h6_population_2010_2030_wide.parquet",
+  "sha256": "5e67e328278a869349078448dd3442db15f5ed8756707fa2ddb353ffbc36adec"
+ },
+ {
+  "role": "population h7",
+  "file": "h7_population_2010_2030_wide.parquet",
+  "sha256": "e61bcfb487663ec13a89cbd39eab922f9326c76e3bd55f13dc8516ccab944129"
+ },
+ {
+  "role": "population h8",
+  "file": "h8_population_2010_2030_wide.parquet",
+  "sha256": "5ec20a97d64220459e41f6cf8220f2e27d22a0c2d50b6c556b9fb6850c7491e9"
+ },
+ {
+  "role": "ntl_mean h6",
+  "file": "h6_ntl_2012_2025_wide_with_geography.parquet",
+  "sha256": "2498299aded9c89604219f4ba4d12d7840cdd54a0d8caa3afb93d421a82219c6"
+ },
+ {
+  "role": "ntl_mean h7",
+  "file": "h7_ntl_2012_2025_wide_with_geography.parquet",
+  "sha256": "9882a755d5b2216554adfac0853b84e160aa072db213eb6b9b9b4b5a42d31591"
+ },
+ {
+  "role": "ntl_mean h8",
+  "file": "h8_ntl_2012_2025_wide_with_geography.parquet",
+  "sha256": "3b9f3f876a84b3e7a30944d0c438f4241b927cafb85b7aebbd89453f343b216f"
+ }
+]
